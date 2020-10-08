@@ -1,0 +1,19 @@
+/* CSS Document */
+body{
+    background-color: rgb(220, 186, 248);
+}
+
+.jumbotron{
+    margin-top: 70px;
+}
+
+.footer{
+ background-color: #101010;
+/* position: absolute; */
+ padding: 10px 0;
+ text-align: center;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+ font-size:14px;
+}
